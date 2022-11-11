@@ -1,10 +1,18 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on mobile apps with Flutter, Andriod and iOS, also my Youtube coding channel and a couple of personal projects
+
+I occasionally contribute to open source projects, but majorly I spend my extra time on developing own projects and realizing own ideas.
+I sometimes speak at meetups and conferences, but only if I know I have something interesting to say.
+I am a content creator, mostly in form of videos, but time to time I open yet another blog... then I kill it... ;)
+
+## I code you to death YT Channel
+
+Check out my Youtube channel where I'm talking about (mostly) topics related to mobile development. It's a channel focused primarly on the code and not necessarly for beginners, but I hope everyone can find something interesting over there!
+
+https://www.youtube.com/channel/UCz0IhLYLaiaZ7D9_U301S9Q
+
 <!--
-**akvus/akvus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
