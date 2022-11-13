@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+I'm:
 - 🔭 Currently working on mobile apps with Flutter, Andriod and iOS, also my [YouTube coding channel](https://www.youtube.com/channel/UCz0IhLYLaiaZ7D9_U301S9Q) and a couple of personal projects
 
-- 🌱 Occasionally contributing to open source projects, but majorly I spend my extra time on developing own projects and realizing own ideas.
+- 🌱 Occasionally contributing to open source projects, but majorly spending my extra time on developing own projects and realizing own ideas.
 - 👯 Sometimes speaking at meetups and conferences, but only if I know I have something interesting to say. Last time I spoke at Flutter Munich Meetup about working with MIDI in Flutter
-- ⚡Content creator, mostly in form of videos, but time to time I open yet another blog... then I kill it... ;)
+- ⚡Creating content, mostly in form of videos, but time to time I open yet another blog... then I kill it... ;)
 
 ## I code you to death YT Channel
 
