@@ -1,17 +1,12 @@
 ### Hi there 👋
 
-I'm:
-- 🔭 Currently working on mobile apps with Flutter, Andriod and iOS, also my [YouTube coding channel](https://www.youtube.com/channel/UCz0IhLYLaiaZ7D9_U301S9Q) and a couple of personal projects
-
-- 🌱 Occasionally contributing to open source projects, but majorly spending my extra time on developing own projects and realizing own ideas.
-- 👯 Sometimes speaking at meetups and conferences, but only if I know I have something interesting to say. Last time I spoke at Flutter Munich Meetup about working with MIDI in Flutter
-- ⚡Creating content, mostly in form of videos, but time to time I open yet another blog... then I kill it... ;)
-
-## I code you to death YT Channel
-
-Check out my Youtube channel where I'm talking about (mostly) topics related to mobile development. It's a channel focused primarly on the code and not necessarly for beginners, but I hope everyone can find something interesting over there!
-
-https://www.youtube.com/channel/UCz0IhLYLaiaZ7D9_U301S9Q
+- 🔭 Experience: 13+ years commercial, 23+ years overall, MSc and BSc in Computer Science.
+- 🔭 Main Stack: Spring Boot, Flutter, Android, iOS.
+- ⌚ Focused on productivity with AI tools, NeoVim, programmable keyboards etc.
+- 🌱 Giving back: Leading the development of a mission-critical task management system for an NGO dedicated to providing education to children in Madagascar.
+- 🌱 Community: occasional open-source contributions.
+- 👯 Last public speaking: "MIDI with Flutter" at Munich Flutter Meet Up.
+- ⚡ Content creation: [YouTube coding channel](https://www.youtube.com/channel/UCz0IhLYLaiaZ7D9_U301S9Q) 
 
 <!--
 - 🔭 I’m currently working on ...
