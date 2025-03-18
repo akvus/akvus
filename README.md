@@ -5,7 +5,7 @@
 - 🛠️ Main Stack: Spring Boot, Flutter, Android, iOS.
 - 🏗️ Up to 70-80% of recently commited code is AI generated.
 - ⌚ Focused on productivity with AI tools, NeoVim, programmable keyboards etc.
-- 🌱 Giving back: Leading the development of a mission-critical task management system for [Ankizy Gasy NGO](https://childrenofmadagascar.com) dedicated to providing education to children in Madagascar.
+- 🌱 Giving back: Partnered with [Ankizy Gasy NGO](https://childrenofmadagascar.com) to develop a management system for NGOs helping children.
 - 🌱 Community: occasional open-source contributions.
 - 🗣️ Last public speaking: "MIDI with Flutter" at Munich Flutter Meet Up.
 - ⚡ Content creation: [YouTube coding channel](https://www.youtube.com/channel/UCz0IhLYLaiaZ7D9_U301S9Q) 
